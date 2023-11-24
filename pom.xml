@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- name and version of the module -->
-    <groupId>Commands &amp; Colors: Napoleonics</groupId>
-    <artifactId>Commands &amp; Colors: Napoleonics v4.2</artifactId>
+    <groupId>CCNapoleonics</groupId>
+    <artifactId>CCNapoleonics42</artifactId>
     <version>4.2.0a52</version>
 
     <properties>
