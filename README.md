@@ -6,7 +6,7 @@
 
 * `pom.xml` contains project settings, such as the Vassal version to compile against, the name and version of your module.
 
-* Variables defined in `pom.xml` can be substituted into other files, listed explicitly in the `<resources>` section. E.g., you can substutite the module version number into the `moduledata` file:
+* Variables defined in `pom.xml` can be substituted into other files, listed explicitly in the `<resources>` section. E.g., you can substitute the module version number into the `moduledata` file:
 ```
 <version>${project.version}</version>
 ```
