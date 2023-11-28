@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <data version="1">
-  <version>4.2.0a56</version>
+  <version>4.2.0a57</version>
   <extra1>with fan scenarios</extra1>
   <extra2>&lt;br&gt;V4 by Mark Benson from prior module by Michel Dippel.&lt;br&gt;Core game images (c) GMT Games LLC.</extra2>
-  <VassalVersion>3.7.5</VassalVersion>
-  <dateSaved>1701038841239</dateSaved>
+  <VassalVersion>3.7.6-SNAPSHOT-f284046-editor-search-revamp-full-plus-refreshGHK</VassalVersion>
+  <dateSaved>1701130667498</dateSaved>
   <description>Featuring Combat Assist. See Help...Release Notes for an introduction to the module.</description>
   <name>Commands &amp; Colors: Napoleonics V4.2</name>
 </data>
